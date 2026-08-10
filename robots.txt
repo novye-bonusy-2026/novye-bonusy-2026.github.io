@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: novye-bonusy-2026.github.io
+Sitemap: https://novye-bonusy-2026.github.io/sitemap.xml
